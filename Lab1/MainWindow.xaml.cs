@@ -19,6 +19,9 @@ namespace Lab1
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// 
+
+    //Hi
     public partial class MainWindow : Window
     {
         List<Band> bands = new List<Band>();
